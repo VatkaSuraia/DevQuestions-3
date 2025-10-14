@@ -1,0 +1,12 @@
+C:\Users\diatel\RiderProjects\DevQuestions-3\DevQuestions-3\src\DevQuestions.Domain\bin\Debug\net9.0\DevQuestions.Domain.deps.json
+C:\Users\diatel\RiderProjects\DevQuestions-3\DevQuestions-3\src\DevQuestions.Domain\bin\Debug\net9.0\DevQuestions.Domain.dll
+C:\Users\diatel\RiderProjects\DevQuestions-3\DevQuestions-3\src\DevQuestions.Domain\bin\Debug\net9.0\DevQuestions.Domain.pdb
+C:\Users\diatel\RiderProjects\DevQuestions-3\DevQuestions-3\src\DevQuestions.Domain\obj\Debug\net9.0\DevQuestions.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diatel\RiderProjects\DevQuestions-3\DevQuestions-3\src\DevQuestions.Domain\obj\Debug\net9.0\DevQuestions.Domain.AssemblyInfoInputs.cache
+C:\Users\diatel\RiderProjects\DevQuestions-3\DevQuestions-3\src\DevQuestions.Domain\obj\Debug\net9.0\DevQuestions.Domain.AssemblyInfo.cs
+C:\Users\diatel\RiderProjects\DevQuestions-3\DevQuestions-3\src\DevQuestions.Domain\obj\Debug\net9.0\DevQuestions.Domain.csproj.CoreCompileInputs.cache
+C:\Users\diatel\RiderProjects\DevQuestions-3\DevQuestions-3\src\DevQuestions.Domain\obj\Debug\net9.0\DevQuestions.Domain.sourcelink.json
+C:\Users\diatel\RiderProjects\DevQuestions-3\DevQuestions-3\src\DevQuestions.Domain\obj\Debug\net9.0\DevQuestions.Domain.dll
+C:\Users\diatel\RiderProjects\DevQuestions-3\DevQuestions-3\src\DevQuestions.Domain\obj\Debug\net9.0\refint\DevQuestions.Domain.dll
+C:\Users\diatel\RiderProjects\DevQuestions-3\DevQuestions-3\src\DevQuestions.Domain\obj\Debug\net9.0\DevQuestions.Domain.pdb
+C:\Users\diatel\RiderProjects\DevQuestions-3\DevQuestions-3\src\DevQuestions.Domain\obj\Debug\net9.0\ref\DevQuestions.Domain.dll

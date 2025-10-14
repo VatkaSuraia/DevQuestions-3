@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "a6NFe9NpaQ4=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\diatel\\RiderProjects\\DevQuestions-3\\DevQuestions-3\\src\\DevQuestions.Contracts\\DevQuestions.Contracts.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\diatel\\.nuget\\packages\\stylecop.analyzers\\1.2.0-beta.556\\stylecop.analyzers.1.2.0-beta.556.nupkg.sha512",
+    "C:\\Users\\diatel\\.nuget\\packages\\stylecop.analyzers.unstable\\1.2.0.556\\stylecop.analyzers.unstable.1.2.0.556.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "DevQuestions.Domain/1.0.0": {
+        "runtime": {
+          "DevQuestions.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DevQuestions.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
