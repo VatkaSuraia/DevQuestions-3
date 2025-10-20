@@ -11,6 +11,4 @@ public class Comment
     public required Guid EntityId { get; set; }
 
     public List<Comment> Children { get; set; } = [];
-
-    
 }

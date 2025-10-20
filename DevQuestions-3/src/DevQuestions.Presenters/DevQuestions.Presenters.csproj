@@ -7,6 +7,7 @@
     </PropertyGroup>
 
     <ItemGroup>
+      <ProjectReference Include="..\DevQuestion.Application\DevQuestion.Application.csproj" />
       <ProjectReference Include="..\DevQuestions.Contracts\DevQuestions.Contracts.csproj" />
       <ProjectReference Include="..\DevQuestions.Domain\DevQuestions.Domain.csproj" />
     </ItemGroup>
@@ -14,6 +15,10 @@
     <ItemGroup>
       <PackageReference Include="Microsoft.AspNetCore.Mvc.Core" Version="2.3.0" />
   
+    </ItemGroup>
+
+    <ItemGroup>
+      <Folder Include="Comments\" />
     </ItemGroup>
 
 </Project>
