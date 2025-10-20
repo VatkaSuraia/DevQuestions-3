@@ -2,13 +2,29 @@ namespace DevQuestions.Domain.Questions;
 
 public class Question
 {
-    public Guid Guid { get; set; }
+
+    public Question(
+        Guid id,
+        string title,
+        string text,
+        Guid userId,
+        Guid? screenShotId,
+        IEnumerable<Guid> tags)
+    {
+        Id = id;
+        Title = title;
+        Text = text;
+        UserId = userId;
+        ScreenShotId = screenShotId;
+        Tags = tags.ToList();
+    }
+    public Guid Id { get; set; }
     
-    public required string Title { get; set; } = string.Empty;
+    public string Title { get; set; }
     
-    public required string Text { get; set; } = string.Empty;
+    public string Text { get; set; }
     
-    public required Guid UserId { get; set; }
+    public Guid UserId { get; set; }
 
     public List<Answer> Answers { get; set; } = [];
     
@@ -16,9 +32,11 @@ public class Question
     
     public Answer? Solution { get; set; }
     
-    public List<Guid> Tags {get; set; } = [];
+    public List<Guid> Tags {get; set; }
     
     public List<Guid> Comments {get; set; } = [];
+
+    public QuestionStatus Status { get; set; } = QuestionStatus.OPEN;
 }
 
 

@@ -8,7 +8,5 @@ public class Answer
     
     public required string Text { get; set; } = string.Empty;
     
-    public required Question Question { get; set; }
-    
     public List<Guid> Comments {get; set; } = [];
 }
